@@ -30,3 +30,61 @@ hr{
     border-width: 7px;
     width: 5%;
     }
+
+/****************************************class selectors************************************************/
+.top-container{
+    background-color: #E4F9F5;
+    margin-left: 0;
+    margin-top: 0;
+    position: relative;
+    padding-top: 6%;
+}
+.middle-container{
+
+}
+.bottom-container{
+    margin-top: 20px;
+    line-height: 2;
+    background-color: #66BFBF;
+    padding: 40px 0 20px 0;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-cloud{
+    position: absolute;
+    right: 27%;   
+    top: 3%;
+    width: 7.5rem;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 27%;
+    bottom: 37%;
+    width: 7.5rem;
+}
+.coding{
+    width: 27%;
+    float: left;
+    margin-right: 7%;
+}
+.gaming{
+    width: 27%;
+    float: right;
+    margin-left: 7%;
+}
+.pfp{
+    border-radius: 100%;
+    width: 200px;
+    height: auto;
+}
+.skill-row{
+    width: 50%;
+    margin: 60px auto 100px auto;
+    line-height: 2;
+    text-align: left;
+}
+.profile{
+    margin: 80px auto 50px auto;
+
+}
